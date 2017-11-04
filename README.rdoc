@@ -1,9 +1,5 @@
 == README
 
-This is the repository for the alpha-blog application, yo
-
-
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
