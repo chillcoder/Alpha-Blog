@@ -8,4 +8,12 @@ class PagesController < ApplicationController
     
   end
   
+  def previous
+    
+  end
+  
+  def friends
+    
+  end
+  
 end

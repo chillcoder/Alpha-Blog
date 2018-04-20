@@ -9,6 +9,9 @@ root 'pages#home'
 
 get 'about', to: 'pages#about'
 
+get 'previous', to: 'pages#previous'
+
+get 'friends', to: 'pages#friends'
 
 
   # Example of regular route:
